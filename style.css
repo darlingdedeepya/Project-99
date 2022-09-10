@@ -1,0 +1,29 @@
+body
+{
+    
+    background-image: linear-gradient(to bottom right, rgb(190, 160, 249), rgb(247, 153, 255), rgb(167, 231, 255), rgb(135, 255, 117));
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration-color: white;
+}    
+
+
+.copy_right_footer
+{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background-color: white;
+}
+
+.img
+{
+    box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2);
+    height: 400px;
+    width: 450px;
+}
+ img:hover
+ {
+     border-radius: 140px;
+ }
+
